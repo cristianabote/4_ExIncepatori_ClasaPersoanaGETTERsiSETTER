@@ -25,7 +25,7 @@ public class Person {
     public int getAge(){return this.age;}
     public String getMail(){return this.mail;}
     public void printPerson(){
-        System.out.println("Persoana1 se numeste "+this.name+" , are "+this.getAge()+" ani si are adresa de email: "+this.getMail());
+        System.out.println("Persoana se numeste "+this.name+" , are "+this.getAge()+" ani si are adresa de email: "+this.getMail());
 
 
     }
